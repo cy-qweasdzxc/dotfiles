@@ -14,7 +14,7 @@ set wildmenu              " 命令行补全时，展示一个菜单让你选择 
 set encoding=utf-8        " 内部使用 UTF-8，避免乱码 [citation:1][citation:3]
 set backspace=indent,eol,start " 让退格键（Backspace）能正常删除缩进和换行 [citation:7]
 set hidden                " 切换文件时，保留当前文件的历史，不强制保存 [citation:1]
-
+set mouse=a
 " ---------- 缩进与制表符 ----------
 set tabstop=4             " 屏幕上一个 Tab 显示为 4 个空格宽
 set shiftwidth=4          " 自动缩进时，一次缩进 4 个空格
